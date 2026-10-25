@@ -1,0 +1,4 @@
+﻿text,label,template_id
+"Aap ka Easypaisa account band hone wala hai, abhi verify karein",1,m_scam_001
+"Aap ki bijli ka bill 3,200 rupay hai, last date 15 hai",0,m_norm_001
+"Aap ka OTP 482910 hai, kisi ko share na karein",0,m_norm_002
