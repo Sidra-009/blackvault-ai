@@ -5,3 +5,5 @@ __pycache__/
 .ipynb_checkpoints/
 data/processed/roman_urdu_zenodo.csv
 models/
+results/errors_scamtype_heldout.csv
+results/errors_scamtype_heldout.csv
