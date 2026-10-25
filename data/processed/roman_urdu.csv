@@ -1,0 +1,61 @@
+text,label,template_id
+"Mubarak ho! Aap ka 10,000 rupay ka inam nikla hai. Claim karne ke liye http://claim-now.example/x1 par click karein.",1,1_0
+"Mubarak ho! Aap ka 10,000 rupay ka inam nikla hai. Claim karne ke liye http://verify-acc.example/k9 par click karein.",1,1_0
+Mubarak ho! Aap ka 1 lakh rupay ka inam nikla hai. Claim karne ke liye http://claim-now.example/x1 par click karein.,1,1_0
+"Mubarak ho! Aap ka 50,000 rupay ka inam nikla hai. Claim karne ke liye http://claim-now.example/x1 par click karein.",1,1_0
+"Mubarak ho! Aap ka 25,000 rupay ka inam nikla hai. Claim karne ke liye http://verify-acc.example/k9 par click karein.",1,1_0
+"Mubarak ho! Aap ka 50,000 rupay ka inam nikla hai. Claim karne ke liye http://verify-acc.example/k9 par click karein.",1,1_0
+Aap ka Allied account block ho jaye ga. Foran apna PIN http://verify-acc.example/k9 par update karein.,1,1_1
+Aap ka HBL account block ho jaye ga. Foran apna PIN http://claim-now.example/x1 par update karein.,1,1_1
+Aap ka Meezan account block ho jaye ga. Foran apna PIN http://verify-acc.example/k9 par update karein.,1,1_1
+Aap ka Meezan account block ho jaye ga. Foran apna PIN http://claim-now.example/x1 par update karein.,1,1_1
+Aap ka UBL account block ho jaye ga. Foran apna PIN http://verify-acc.example/k9 par update karein.,1,1_1
+Aap ka UBL account block ho jaye ga. Foran apna PIN http://claim-now.example/x1 par update karein.,1,1_1
+"BISP ki taraf se aap ke 25,000 rupay approve hue hain. Registration ke liye 1000 rupay JazzCash karein.",1,1_2
+BISP ki taraf se aap ke 1 lakh rupay approve hue hain. Registration ke liye 500 rupay JazzCash karein.,1,1_2
+"BISP ki taraf se aap ke 10,000 rupay approve hue hain. Registration ke liye 200 rupay JazzCash karein.",1,1_2
+BISP ki taraf se aap ke 1 lakh rupay approve hue hain. Registration ke liye 200 rupay JazzCash karein.,1,1_2
+"BISP ki taraf se aap ke 25,000 rupay approve hue hain. Registration ke liye 500 rupay JazzCash karein.",1,1_2
+"BISP ki taraf se aap ke 50,000 rupay approve hue hain. Registration ke liye 500 rupay JazzCash karein.",1,1_2
+"BISP ki taraf se aap ke 10,000 rupay approve hue hain. Registration ke liye 1000 rupay JazzCash karein.",1,1_2
+"BISP ki taraf se aap ke 25,000 rupay approve hue hain. Registration ke liye 200 rupay JazzCash karein.",1,1_2
+Aap ka parcel TCS par ruka hua hai. Address confirm karne ke liye http://verify-acc.example/k9 kholein.,1,1_3
+Aap ka parcel M&P par ruka hua hai. Address confirm karne ke liye http://claim-now.example/x1 kholein.,1,1_3
+Aap ka parcel TCS par ruka hua hai. Address confirm karne ke liye http://claim-now.example/x1 kholein.,1,1_3
+Aap ka parcel M&P par ruka hua hai. Address confirm karne ke liye http://verify-acc.example/k9 kholein.,1,1_3
+Aap ka parcel Leopards par ruka hua hai. Address confirm karne ke liye http://claim-now.example/x1 kholein.,1,1_3
+Aap ka parcel Leopards par ruka hua hai. Address confirm karne ke liye http://verify-acc.example/k9 kholein.,1,1_3
+Ghar baithe 1 lakh rupay mahana kamayein. Registration fee 1000 EasyPaisa karein.,1,1_4
+"Ghar baithe 10,000 rupay mahana kamayein. Registration fee 200 EasyPaisa karein.",1,1_4
+"Ghar baithe 25,000 rupay mahana kamayein. Registration fee 500 EasyPaisa karein.",1,1_4
+"Ghar baithe 10,000 rupay mahana kamayein. Registration fee 1000 EasyPaisa karein.",1,1_4
+"Ghar baithe 50,000 rupay mahana kamayein. Registration fee 1000 EasyPaisa karein.",1,1_4
+"Ghar baithe 10,000 rupay mahana kamayein. Registration fee 500 EasyPaisa karein.",1,1_4
+"Ghar baithe 25,000 rupay mahana kamayein. Registration fee 200 EasyPaisa karein.",1,1_4
+"Ghar baithe 25,000 rupay mahana kamayein. Registration fee 1000 EasyPaisa karein.",1,1_4
+"Yaar kal shaam ko chai wale chalte hain, 8 baje milte hain.",0,0_0
+"Yaar kal shaam ko Clifton chalte hain, 8 baje milte hain.",0,0_0
+"Yaar kal shaam ko Clifton chalte hain, 11 baje baje milte hain.",0,0_0
+"Yaar kal shaam ko chai wale chalte hain, 5 baje milte hain.",0,0_0
+"Yaar kal shaam ko Dolmen Mall chalte hain, 11 baje baje milte hain.",0,0_0
+"Yaar kal shaam ko Clifton chalte hain, 5 baje milte hain.",0,0_0
+"Yaar kal shaam ko Clifton chalte hain, 6 baje milte hain.",0,0_0
+Ammi ne kaha hai ke ghar aate waqt sabzi le aana.,0,0_1
+Ammi ne kaha hai ke ghar aate waqt doodh le aana.,0,0_1
+Ammi ne kaha hai ke ghar aate waqt roti le aana.,0,0_1
+"Aap ke Meezan account se 50,000 rupay 8 par debit hue. Shukriya.",0,0_2
+"Aap ke UBL account se 10,000 rupay 6 par debit hue. Shukriya.",0,0_2
+Aap ke Meezan account se 1 lakh rupay 6 par debit hue. Shukriya.,0,0_2
+"Aap ke UBL account se 50,000 rupay 8 par debit hue. Shukriya.",0,0_2
+Aap ke HBL account se 1 lakh rupay 11 baje par debit hue. Shukriya.,0,0_2
+"Aap ke Meezan account se 25,000 rupay 11 baje par debit hue. Shukriya.",0,0_2
+Aap ke UBL account se 1 lakh rupay 11 baje par debit hue. Shukriya.,0,0_2
+Aap ke HBL account se 1 lakh rupay 6 par debit hue. Shukriya.,0,0_2
+"Aap ke UBL account se 10,000 rupay 5 par debit hue. Shukriya.",0,0_2
+Aap ke HBL account se 1 lakh rupay 8 par debit hue. Shukriya.,0,0_2
+"Kal Physics ka test hai, notes bhej do please.",0,0_3
+"Kal Stats ka test hai, notes bhej do please.",0,0_3
+"Kal Math ka test hai, notes bhej do please.",0,0_3
+"Meeting 6 baje hai, please time par pohanch jana.",0,0_4
+"Meeting 8 baje hai, please time par pohanch jana.",0,0_4
+"Meeting 11 baje baje hai, please time par pohanch jana.",0,0_4
