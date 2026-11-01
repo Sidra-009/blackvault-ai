@@ -1,0 +1,11 @@
+# Dependencies for the audio experiments (written for Google Colab, where torch is preinstalled).
+# Not tested locally; do not install torch on the laptop.
+numpy
+pandas
+scikit-learn
+joblib
+transformers
+librosa
+soundfile
+huggingface_hub
+tqdm
