@@ -3,7 +3,11 @@ data/raw/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
-data/processed/roman_urdu_zenodo.csv
 models/
 results/errors_scamtype_heldout.csv
-results/errors_scamtype_heldout.csv
+_incoming/
+src/app/*.v1.py
+src/app/*.v2.py
+README.old.md
+.streamlit/secrets.toml
+.env
