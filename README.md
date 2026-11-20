@@ -22,11 +22,6 @@ BlackVault AI takes a suspicious SMS, WhatsApp message or email and answers thre
 
 It is a **defensive screening aid**, not a security guarantee. Every number in this document comes from a file in [`results/`](results/), including the results that did not work out - see [Results and honest limitations](#results-and-honest-limitations).
 
-<p align="center">
-  <img src="docs/screenshot-home.png" alt="BlackVault AI home screen" width="48%">
-  <img src="docs/screenshot-result.png" alt="BlackVault AI analysis result with verdict, score gauge and explanation" width="48%">
-</p>
-
 ## Table of contents
 
 - [Why BlackVault AI](#why-blackvault-ai)
