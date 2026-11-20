@@ -12,10 +12,7 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-green">
   <img alt="Status" src="https://img.shields.io/badge/status-demo%20%2F%20research-lightgrey">
   <br>
-  <img alt="Last commit" src="https://img.shields.io/github/last-commit/Sidra-009/blackvault-ai">
-  <img alt="Languages" src="https://img.shields.io/github/languages/top/Sidra-009/blackvault-ai">
-  <img alt="Repo size" src="https://img.shields.io/github/repo-size/Sidra-009/blackvault-ai">
-  <img alt="Stars" src="https://img.shields.io/github/stars/Sidra-009/blackvault-ai?style=social">
+
 </p>
 
 BlackVault AI takes a suspicious SMS, WhatsApp message or email and answers three questions: **is it likely a scam, why, and what should I do next?** It is built for the way scams actually reach people in Pakistan: English, Roman Urdu and mixed messages that ask for an OTP, a PIN, a CNIC or a small "fee".
